@@ -37,7 +37,7 @@ hr{
   height:2px;
   width: 100px;
   align-self:center;
-  background-color:#094206;
+  background-color: darkred;
 }
 .nav-links li a{
   text-decoration: none;
@@ -644,7 +644,7 @@ form .btn-warning:hover
 
   .nav-links{
       position: fixed;
-      background: #129081;
+      background: darkred;
       height: 100vh;
       width: 100%;
       flex-direction: column;
